@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: springgreen;
+    font-size: 15px;
+
+}
+
+div {
+    margin-top: 50px;
+
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+}
